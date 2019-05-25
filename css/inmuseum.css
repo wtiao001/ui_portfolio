@@ -590,6 +590,7 @@ p {
 }
 .test {
     background-image: url(/images/museum_back.png);
+    background: #eacece;
     height: 55vh;
     max-width: 100%;
 }
