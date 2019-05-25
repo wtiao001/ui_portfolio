@@ -456,7 +456,7 @@ outline: none;
     overflow: hidden;
     opacity: 1;
     text-align: right;
-    background-image: url(images/museum_back.png);
+    background-image: url(/images/museum_back.png);
     z-index: 999;
 }
 
