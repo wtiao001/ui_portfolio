@@ -457,6 +457,7 @@ outline: none;
     opacity: 1;
     text-align: right;
     background-image: url(/images/museum_back.png);
+    background: #eacece;
     z-index: 999;
 }
 
